@@ -1,2 +1,2 @@
 # educarvr
-Educar VR
+Educar VR, sitio en construccion
